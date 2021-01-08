@@ -1,2 +1,2 @@
 # ALGO-C
-first day
+first day 1
